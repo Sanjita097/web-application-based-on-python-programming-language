@@ -1,0 +1,18 @@
+RentInvoice
+<--------------------------------------------------------------|
+        Welcome to TechnoPropertyNepal.......                  |
+<--------------------------------------------------------------|
+  Customer Name:sanjita
+Kitta Number : 104
+City/District: Bhaktapur
+Land Faced: West
+Price:45000
+Area: 3 annas
+Date and Time: 2024-05-05 11:21:27
+Duration of Rent: 5 month
+
+Total :225000
+<--------------------------------------------------------------|
+            Thank you for renting with us.......               |      
+<--------------------------------------------------------------|
+        
